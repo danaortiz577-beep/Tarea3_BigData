@@ -169,4 +169,3 @@ El productor toma registros reales del dataset y los publica con la **hora actua
 - Instituto de Hidrología, Meteorología y Estudios Ambientales (IDEAM). *Cantidad de datos temperatura mínima* [Conjunto de datos]. Portal de Datos Abiertos de Colombia. https://www.datos.gov.co
 - Apache Software Foundation. *Apache Spark Documentation*. https://spark.apache.org/docs/latest/
 - Apache Software Foundation. *Apache Kafka Documentation*. https://kafka.apache.org/documentation/
-- Universidad Nacional Abierta y a Distancia. (2026). *Guía de aprendizaje – Tarea 3: Procesamiento de datos con Apache Spark* y *Anexo 3: Instructivo Spark Streaming y Kafka*. Curso Big Data.
