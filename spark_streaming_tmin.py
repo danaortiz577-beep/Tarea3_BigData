@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Consumidor de Spark Structured Streaming - Tarea 3 Big Data (UNAD)
+Consumidor de Spark Structured Streaming
 
 Lee los mensajes del topic "temperatura_min" de Kafka y calcula, por ventana
 de 1 minuto y por departamento: numero de lecturas, temperatura promedio,
