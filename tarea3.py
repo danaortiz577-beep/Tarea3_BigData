@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Tarea 3 - Big Data (UNAD)
+Tarea 3 - Big Data 
 Analisis batch con Apache Spark: temperatura minima del aire (IDEAM).
 
 Fuente de datos: datos.gov.co - "Cantidad de datos temperatura minima".
