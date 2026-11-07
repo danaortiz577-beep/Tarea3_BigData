@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Productor de Kafka (generador de datos) - Tarea 3 Big Data (UNAD)
+Productor de Kafka (generador de datos) 
 
 Lee el CSV del dataset de temperatura minima del IDEAM, toma registros reales
 al azar y los publica en el topic de Kafka simulando la llegada de datos en
