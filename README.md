@@ -4,11 +4,8 @@ Análisis de la **temperatura mínima del aire en Colombia** (estaciones del IDE
 
 | | |
 |---|---|
-| **Autor** | [TU NOMBRE] |
+| **Autor** | Dana Vanessa Fajardo Ortiz |
 | **Curso** | Big Data (código 202016911) – Universidad Nacional Abierta y a Distancia (UNAD) |
-| **Video 1 – Análisis batch** | [ENLACE AL VIDEO 1] |
-| **Video 2 – Kafka y Streaming** | [ENLACE AL VIDEO 2] |
-| **Presentación online** | [ENLACE A LA PRESENTACIÓN] |
 
 ---
 
